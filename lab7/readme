@@ -1,0 +1,26 @@
+TREES
+Advantages: Trees are sorted. You can keep inserting as many values as wanted
+since allocated memory is not fixed.
+
+Disadvantages: Slower lookup times and slower insert times compared to hash tables.
+From the plot, the lookup and insertion times for trees varies greatly.
+
+
+
+
+
+
+
+HASH TABLES
+Advantages: Fast insertion and lookup times. From the plot, the lookup and insertion times
+for hash tables is very steady.
+
+Disadvantages: Hash tables are unsorted. Allocted memory is fixed.
+
+
+
+
+
+
+Something else to measure to compare trees and hash tables are how long it takes
+to pop a value.
